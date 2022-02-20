@@ -1,6 +1,7 @@
 # travel_app
+This is my first flutter project => Travel Application Home Page UI
 
-A new Flutter project.
+See you in my next project!
 
 ## Getting Started
 
